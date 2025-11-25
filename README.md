@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @P4VANP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Pavan Prajapati
 
-<!---
-P4VANP/P4VANP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested in Python, Data Science, and small automation projects.
+- I’m currently learning SQL, Machine Learning, and AI tools.
+- I’m looking to collaborate on simple Python projects and data-related work.
+- How to reach me: 16pavanprajapati@gmail.com
+- Fun fact: I enjoy creating tech content and exploring new tools.
+
